@@ -1,4 +1,4 @@
-# 🚀 Roman R | DevOps & Automation Architect
+# 🚀 Roman Rapoport | DevOps & Automation Senior developer
 
 <div align="center">
   
