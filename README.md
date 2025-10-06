@@ -59,7 +59,7 @@ skills:
 ### 🏗️ Architecture & Design
 ![E2E CI/CD Pipeline Design](https://img.shields.io/badge/E2E_CI/CD_Pipeline_Design-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white)
 ![Container Orchestration](https://img.shields.io/badge/Container_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Full Automation Systems](https://img.shields.io/badge/Full_Automation_Systems-FF6B6B?style=for-the-badge&logo=serverless&logoColor=white)
+![Automation Architecture Design](https://img.shields.io/badge/Automation_Architecture_Design-FF6B6B?style=for-the-badge&logo=ansible&logoColor=white)
 ![Event Driven Architecture](https://img.shields.io/badge/Event_Driven_Architecture-00C7B7?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### 🔧 Tools & Platforms
@@ -67,6 +67,12 @@ skills:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
