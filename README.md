@@ -18,14 +18,15 @@ focus:
   - CI/CD Pipeline Design & Implementation
   - Container Orchestration & Management
   - Infrastructure as Code (IaC)
+  - System design and implementation
   - Build Automation & Integration
   - Monitoring & Observability
 skills:
-  languages: [Python, JavaScript, Java, C]
-  containers: [Docker, Kubernetes]
-  ci_cd: [Jenkins, GitHub Actions]
+  languages: [Python, Java, Groovy, JavaScript, C]
+  containers: [Docker, Kubernetes, Compose, Podman]
+  ci_cd: [Jenkins, Gitlab CI & CD, ArgoCD, GitHub Actions]
   monitoring: [Loki, Prometheus, Grafana]
-  version_control: [Git, Repo]
+  version_control: [Git, Gitlab, Github, Repo]
 ```
 
 ---
@@ -38,24 +39,34 @@ skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📊 Monitoring & Logging
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+### 🏗️ Architecture & Design
+![E2E CI/CD Pipeline Design](https://img.shields.io/badge/E2E_CI/CD_Pipeline_Design-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Container Orchestration](https://img.shields.io/badge/Container_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Full Automation Systems](https://img.shields.io/badge/Full_Automation_Systems-FF6B6B?style=for-the-badge&logo=serverless&logoColor=white)
+![Event Driven Architecture](https://img.shields.io/badge/Event_Driven_Architecture-00C7B7?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
